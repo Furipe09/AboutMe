@@ -8,8 +8,8 @@
 - **AWS** ( [AWS Practioner](#awspractioner), [AWS Architect](#awsarchitect), [AWS Developer](#awsdeveloper), [AWS Devops Engineer](#awsdevopsprofessional), [AWS Devops Professional](#awsdevopsprofessional), [AWS Architected Professional](#awsarchitectedprofessional), [AWS Security Specialist](#awssecurityspecialist) )
 - **Observability** (Prometheus, Grafana, Splunk, Appdynamics) 
 - Programação ( Python, Shell Script, JavaScript )
-- GITLAB, GITHUB, Bit Bucket
-- Linux
+- Repos ( GITLAB, GITHUB, Bit Bucket )
+- Linux, [Helm(https://github.com/badtuxx/DescomplicandoHelm), [Consull](https://www.hashicorp.com/certification/consul-associate)
   
 ### Road Map - Containers
 
@@ -37,8 +37,8 @@ graph TD;
 | Ação | Motivo | Inicio |Status |
 |  ------ | ------ | ------ | ------ |
 | [Descomplicando Kubernetes](https://www.linuxtips.io/products/descomplicando-o-kubernetes) | Aprendendo Kubernetes | Em definição | :white_large_square: |
-| [Fazer o Get Started do Kubernetes](https://docs.docker.com/) | Aprimorando conhecimentos de Kubernetes | Em definição | :white_large_square: |
-| [Ler artigos da certificação](https://) | Aprender mais sobre a certificação | Em definição | :white_large_square: |
+| [Fazer o Get Started do Kubernetes](https://) | Aprimorando conhecimentos de Kubernetes | Em definição | :white_large_square: |
+| [Ler artigos da certificação]([https://](https://github.com/badtuxx/DescomplicandoKubernetes)) | Aprender mais sobre a certificação | Em definição | :white_large_square: |
 | [Simulados da Prova](https://) | Preparação para a certificação  | Em definição | :white_large_square: |
 | [Prova da Certificação](https://) | Fechando um ciclo | Em definição | :white_large_square: |
   
