@@ -15,7 +15,7 @@
 <details><summary>Saiba Mais</summary>
 <p>
 
-> Diagrama de evolução das Skills de Containers:
+Evolução das Skills de Containers:
 
 ```mermaid
 graph TD;
@@ -24,7 +24,7 @@ graph TD;
     Docker-->Istio;
 ```
 
-### <a id="docker" />Docker Certification - DCA
+### <a id="docker" />Objetivo - Docker Certification - DCA
 
 | Ação | Motivo | Inicio |Status |
 | ------ | ------ | ------ | ------ |
@@ -34,7 +34,7 @@ graph TD;
 | [Simulados da Prova](https://www.amazon.com.br/Docker-Certified-Associate-Practice-Tests-ebook/dp/B07NCLGJJ3) | Preparação para a certificação DCA | Em definição | :white_large_square: |
 | [Prova da Certificação](https://www.amazon.com.br/Docker-Certified-Associate-Practice-Tests-ebook/dp/B07NCLGJJ3) | Fechando um ciclo | Em definição | :white_large_square: |
 
-### Kubernetes Certification - <a id="kubernetes" />
+### <a id="kubernetes" />Objetivo - Kubernetes Certification -
 
 | Ação | Motivo | Inicio |Status |
 | ------ | ------ | ------ | ------ |
@@ -44,7 +44,7 @@ graph TD;
 | [Simulados da Prova](https://) | Preparação para a certificação  | Em definição | :white_large_square: |
 | [Prova da Certificação](https://) | Fechando um ciclo | Em definição | :white_large_square: |
   
-### Istio Certification - <a id="istio" />
+### <a id="istio" />Objetivo - Istio Certification - 
 
 | Ação | Motivo | Inicio |Status |
 | ------ | ------ | ------ | ------ |
@@ -54,7 +54,7 @@ graph TD;
 | [Simulados da Prova](https://) | Preparação para a certificação  | Em definição | :white_large_square: |
 | [Prova da Certificação](https://) | Fechando um ciclo | Em definição | :white_large_square: |
 
-### Nomad Certification - <a id="nomad" />
+### <a id="nomad" />Nomad Certification - 
 
 | Ação | Motivo | Inicio |Status |
 | ------ | ------ | ------ | ------ |
@@ -239,5 +239,5 @@ graph TD;
 
 </details>
   
-**Felipe Rocha**
+> **Felipe Rocha**
 
