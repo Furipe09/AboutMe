@@ -5,10 +5,9 @@
 - **Containers** ( [Docker](#docker), [Kubernetes](#kubernetes), [Istio](#istio), [Nomad](#nomad) )
 - **Infra as Code** ( [Terraform](#terraform), [Ansible](#ansible), [Packer](#packer), [Vault](#vault) )
 - **AWS** ( [AWS Practioner](#awspractioner), [AWS Architect](#awsarchitect), [AWS Developer](#awsdeveloper), [AWS Devops Engineer](#awsdevopsprofessional), [AWS Devops Professional](#awsdevopsprofessional), [AWS Architected Professional](#awsarchitectedprofessional), [AWS Security Specialist](#awssecurityspecialist) )
-- **Observability** (Prometheus, Grafana, Splunk, Appdynamics) 
 - Programação ( Python, Shell Script, JavaScript )
-- Repos ( GITLAB, GITHUB, Bit Bucket )
-- Linux, [Helm](https://github.com/badtuxx/DescomplicandoHelm), [Consull](https://www.hashicorp.com/certification/consul-associate)
+- Linux, [Helm](https://github.com/badtuxx/DescomplicandoHelm), [Consull](https://www.hashicorp.com/certification/consul-associate), GIT
+- **Observability** (Prometheus, Grafana, Splunk, Appdynamics) 
   
 ## Road Map - Containers
 
@@ -206,6 +205,33 @@ graph TD;
 
 </details>
 
+## Road Map - Programação
+
+<details><summary>Saiba Mais</summary>
+<p>
+  
+###  Objetivo - Python 
+  
+| Ação | Motivo | Inicio |Status |
+| ------ | ------ | ------ | ------ | ------ |
+| Curso de | Aprendendo | Em definição | :white_check_mark: |
+  
+###  Objetivo - Shell Script 
+  
+| Ação | Motivo | Inicio |Status |
+| ------ | ------ | ------ | ------ | ------ |
+| Curso de | Aprendendo | Em definição | :white_check_mark: |
+  
+###  Objetivo - JavaScript
+  
+| Ação | Motivo | Inicio |Status |
+| ------ | ------ | ------ | ------ | ------ |
+| Curso de | Aprendendo | Em definição | :white_check_mark: |
+  
+</p>
+
+</details>
+
 ## Road Map - Observability
 
 <details><summary>Saiba Mais</summary>
@@ -238,6 +264,3 @@ graph TD;
 </p>
 
 </details>
-  
-> **Felipe Rocha**
-
