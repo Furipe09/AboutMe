@@ -3,7 +3,7 @@
 ## Tech Skills
 
 - **Containers** ( [Docker](#docker), [Kubernetes](#kubernetes), [Istio](#istio), [Nomad](#nomad) )
-- **Infra as Code** ( [Terraform](#terraform), [Ansible](#ansible), [Packer](#packer), [Vault](#vault) )
+- **Infra as Code** ( [Terraform](#terraform), Pulumi, [Ansible](#ansible), [Packer](#packer), [Vault](#vault) )
 - **AWS** ( [AWS Practioner](#awspractioner), [AWS Architect](#awsarchitect), [AWS Developer](#awsdeveloper), [AWS Devops Engineer](#awsdevopsprofessional), [AWS Devops Professional](#awsdevopsprofessional), [AWS Architected Professional](#awsarchitectedprofessional), [AWS Security Specialist](#awssecurityspecialist) )
 - Programação ( Python, Shell Script, JavaScript )
 - Linux, [Helm](https://github.com/badtuxx/DescomplicandoHelm), [Consull](https://www.hashicorp.com/certification/consul-associate), GIT
@@ -20,7 +20,8 @@ Evolução das Skills de Containers:
 graph TD;
     Docker-->Kubernetes
     Docker-->Nomad;
-    Docker-->Istio;
+    Kubernetes-->Istio;
+    Nomad-->Istio;
 ```
 
 ### <a id="docker" />Objetivo - Docker Certification - DCA
@@ -214,19 +215,23 @@ graph TD;
   
 | Ação | Motivo | Inicio |Status |
 | ------ | ------ | ------ | ------ | ------ |
-| Curso de | Aprendendo | Em definição | :white_check_mark: |
+| Curso Python | Aprendendo | Em definição | :white_check_mark: |
+| Desafios HackerRank | 10 Desafios por mês | Em definição | :white_check_mark: |
   
 ###  Objetivo - Shell Script 
   
 | Ação | Motivo | Inicio |Status |
 | ------ | ------ | ------ | ------ | ------ |
-| Curso de | Aprendendo | Em definição | :white_check_mark: |
+| Curso Shell Script | Aprendendo | Em definição | :white_check_mark: |
+| Desafios HackerRank | 10 Desafios por mês | Em definição | :white_check_mark: |
   
 ###  Objetivo - JavaScript
   
 | Ação | Motivo | Inicio |Status |
 | ------ | ------ | ------ | ------ | ------ |
 | Curso de | Aprendendo | Em definição | :white_check_mark: |
+| Curso JavaScript | Aprendendo | Em definição | :white_check_mark: |
+| Desafios HackerRank | 10 Desafios por mês | Em definição | :white_check_mark: |
   
 </p>
 
