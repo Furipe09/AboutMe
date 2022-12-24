@@ -1,5 +1,9 @@
 # _Felipe Rocha - Teach Skills Roadmap_
 
+## Coding Roadmap
+  - **[Coding Roadmap](https://github.com/Furipe09/AboutMe/blob/Master/Coding_Roadmap.md)**
+  - [Python](https://roadmap.sh/python), [Shell Script](), [JavaScript]()
+  
 ## Container Roadmap
   - **[Container Roadmap](https://github.com/Furipe09/AboutMe/blob/Master/Container_Roadmap.md)** 
   - [Docker](#docker), [Kubernetes](#kubernetes), [Istio](#istio), [Nomad](#nomad);
@@ -12,9 +16,7 @@
   - **[AWS Roadmap](https://github.com/Furipe09/AboutMe/blob/Master/AWS_Roadmap.md)** 
   - [AWS Practioner](#awspractioner), [AWS Architect](#awsarchitect), [AWS Developer](#awsdeveloper), [AWS Devops Engineer](#awsdevopsprofessional), [AWS Devops Professional](#awsdevopsprofessional), [AWS Architected Professional](#awsarchitectedprofessional), [AWS Security Specialist](#awssecurityspecialist)
   
-## Coding Roadmap
-  - **[Coding Roadmap](https://github.com/Furipe09/AboutMe/blob/Master/Coding_Roadmap.md)**
-  - [Python](https://roadmap.sh/python), [Shell Script](), [JavaScript]()
+
   
 ## Linux Roadmap
   - **In Construction**
