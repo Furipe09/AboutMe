@@ -25,7 +25,16 @@
 | Curso de | Aprendendo | Em definição | :white_check_mark: |
 | Curso Padrões de Projeto (Design Patterns) com Python | Aprendendo | Em definição | :white_check_mark: |
 | Desafios HackerRank | 10 Desafios por mês | Em definição | :white_check_mark: |
+
+
+###  Objetivo - Expressão Regular
   
+| Ação | Motivo | Inicio |Status |
+| ------ | ------ | ------ | ------ | ------ |
+| Curso de | Aprendendo | Em definição | :white_check_mark: |
+| Curso Padrões de Projeto (Design Patterns) com Python | Aprendendo | Em definição | :white_check_mark: |
+| Desafios HackerRank | 10 Desafios por mês | Em definição | :white_check_mark: |
+
 ###  Objetivo - Shell Script 
   
 | Ação | Motivo | Inicio |Status |
