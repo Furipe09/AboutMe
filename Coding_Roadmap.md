@@ -9,8 +9,11 @@
 
 | Acao   | Motivo | Inicio | Status |
 | ------ | ------ | ------ | ------ |
-| Curso Python | Aprendendo | Em definição | <li>- [ ] item2</li></ul> |
-| Desafios HackerRank | 10 Desafios por mês | Em definição | <li>- [x] item2</li></ul> |
+| Curso Python | Aprendendo | Em definição | :white_ |
+| Desafios HackerRank | 10 Desafios por mês | Em definição | :white_ |
+| PCEP™ – Certified Entry-Level Python Programmer | Certificação | Em definição | :white_ |
+| PCAP™ – Certified Associate in Python Programming | Certificação | Em definição | :white_ |
+| PCAT™ – Certified Associate in Testing with Python | Certificação | Em definição | :white_ |
 
 
 ###  Objetivo - Design Paterns
