@@ -5,7 +5,7 @@
 - Segurança
 - Modelagem (programação, testes, implantação)
   
-###  Objetivo - Python 
+###  Objetivo - [Python Roadmap](https://roadmap.sh/python/)
 
 | Acao   | Motivo | Inicio | Status |
 | ------ | ------ | ------ | ------ |
@@ -30,7 +30,7 @@
 | Expressão Regular | |
 | Shell Script | |
 | JavaScript | |
-| 12 Fatores | |
+| [12 Fatores](https://12factor.net/pt_br/) | |
 | Componentização e Microserviços | |
 | GIT Flow | |
 | Low Code - NO Code | |
