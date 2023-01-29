@@ -1,12 +1,17 @@
 # _Felipe Rocha - Teach Skills Roadmap_
 
 ## Coding Roadmap
+
+  4 Paradigmas de programação
+  
   - **[Coding Roadmap](https://github.com/Furipe09/AboutMe/blob/Master/Coding_Roadmap.md)**
   - [Shell Script]();
   - [JavaScript]()
   - [Python](https://roadmap.sh/python);
   
     - <details><summary>Programação em Python do básico ao avançado</summary>
+  
+        extenção blue, isort
 
         | Seção       | Previsão    | Término     | Check |
         | ----------- | ----------- | ----------- | ----- |
@@ -73,6 +78,13 @@
   - [AWS Security Specialist](#awssecurityspecialist)
   
       - <details><summary>AWS Architect Whizlabs + Udemy exams</summary>
+          
+          Site
+          servelessland.com
+          refactoring.guru
+          skilbuilder.aws
+          tutorials doje
+          digitalcloud training
 
           Whizlabs
   
