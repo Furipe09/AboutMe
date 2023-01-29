@@ -74,7 +74,7 @@
   
       - <details><summary>AWS Architect Whizlabs + Udemy exams</summary>
 
-      - Whizlabs
+       Whizlabs
         | Item              | Previsão | Término  | Check |
         | ----------------- | -------- | -------- | ----- |
         | 1 + Cost          | 26/12/22 | 26/12/22 | Done  |
@@ -89,7 +89,7 @@
         | RDS + DynamoDB    | 27/02/23 | 27/02/23 |       |
         | 8                 |          |          |       |
 
-       - Udemy
+        Udemy
   
         | Item   | Previsão | Término  | Check |
         | ------ | -------- | -------- | ----- |
