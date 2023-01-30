@@ -13,6 +13,7 @@
   - [Shell Script]()
   - [JavaScript]()
   - [Python](https://roadmap.sh/python)
+  - https://learnxinyminutes.com/docs/python/
   
     - <details><summary>Programação em Python do básico ao avançado</summary>
   
