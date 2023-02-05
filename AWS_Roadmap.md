@@ -19,6 +19,7 @@
           skilbuilder.aws
           tutorials doje
           digitalcloud training
+          https://www.youtube.com/@AmazonWebServicesLatinAmerica
 
           Whizlabs
   
